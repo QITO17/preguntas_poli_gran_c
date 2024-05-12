@@ -2,6 +2,7 @@ import { useState } from "react";
 import Main from "./components/Main.jsx";
 import { datosDesordenados } from "./components/Preguntas_respuestas.js";
 import swal from "sweetalert";
+import logo from './../public/logo.png'
 
 function App() {
   const [indicePregunta, setIndicePregunta] = useState(0);
@@ -58,7 +59,7 @@ function App() {
     <>
       <div className=" h-44 sm:h-0 relative flex items-center">
         <div className=" absolute top-1 max-w-[150px]">
-          <img src="./../public/logo.png" alt="" />
+          <img src={logo} alt="" />
         </div>
         <p onClick={ cambiaNombre } className=" border absolute right-6 top-14 hover:cursor-pointer hover:bg-white/50 transition-all p-2 rounded-md ">{ nombreConcursante }</p>
       </div>
