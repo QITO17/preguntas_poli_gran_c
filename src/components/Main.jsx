@@ -14,6 +14,7 @@ const Main = ({ respuestaMala, siguientePregunta, pregunta, posibles_respuestas,
     }else{
       respuestaMala()
     }
+    console.clear();
   }
 
   return (
