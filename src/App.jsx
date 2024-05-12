@@ -60,7 +60,7 @@ function App() {
         <div className=" absolute top-1 max-w-[150px]">
           <img src="./../public/logo.png" alt="" />
         </div>
-        <p onClick={ cambiaNombre } className=" border absolute right-6 top-14 hover:cursor-pointer hover:bg-white/50 transition-all p-2 rounded-md ">{ nombreConcursante }</p>
+        <p onClick={ cambiaNombre } className=" border absolute right-6 top-14 hover:cursor-pointer hover:bg-white/50 transition-all p-2 rounded-md ">ppp{ nombreConcursante }</p>
       </div>
       {datosDesordenados.map(
         (dato, index) =>
