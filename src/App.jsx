@@ -58,7 +58,7 @@ function App() {
     <>
       <div className=" h-44 sm:h-0 relative flex items-center">
         <div className=" absolute top-1 max-w-[150px]">
-          <img src="/public/logo.png" alt="" />
+          <img src="./../public/logo.png" alt="" />
         </div>
         <p onClick={ cambiaNombre } className=" border absolute right-6 top-14 hover:cursor-pointer hover:bg-white/50 transition-all p-2 rounded-md ">{ nombreConcursante }</p>
       </div>

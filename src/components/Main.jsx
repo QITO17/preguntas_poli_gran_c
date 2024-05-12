@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import logo from "../../public/logo.png";
 import "./../App.css";
 const Main = ({ respuestaMala, siguientePregunta, pregunta, posibles_respuestas, respuesta_correcta }) => {
   const respuesta_correcta1 = respuesta_correcta;
