@@ -133,7 +133,7 @@ export const datosEstaticos = [
     posibles_respuestas: {
       res_1: "2/20",
       res_2: "2/27",
-      res_3: "1/24",
+      res_3: "-1/24",
       res_4: "3/18",
       res_5: "1/3",
     },
