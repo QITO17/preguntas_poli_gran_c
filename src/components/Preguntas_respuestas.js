@@ -2,7 +2,7 @@
 export const datosEstaticos = [
   {
     nivel: "1",
-    pregunta: "Cual es la suma de la siguiente fracción 7/8 + 3/10",
+    pregunta: "Cuàl es la suma de la siguiente fracción 7/8 + 3/10",
     respuesta_correcta: "79/80",
     posibles_respuestas: {
       res_1: "1/4",
@@ -15,7 +15,7 @@ export const datosEstaticos = [
 
   {
     nivel: "1",
-    pregunta: "Cual es el valor de 3^6 ",
+    pregunta: "Cuàl es el valor de 3^6 ",
     respuesta_correcta: "729",
     posibles_respuestas: {
       res_1: "762",
@@ -28,7 +28,7 @@ export const datosEstaticos = [
   {
     nivel: "1",
     pregunta:
-      "Cual es la respuesta de la siguiente Fracción mixta 5 y 2/3 - 3 y 5/6",
+      "Cuàl es la respuesta de la siguiente Fracción mixta 5 y 2/3 - 3 y 5/6",
     respuesta_correcta: "11/6",
     posibles_respuestas: {
       res_1: "10/3",
@@ -42,7 +42,7 @@ export const datosEstaticos = [
   {
     nivel: "1",
     pregunta:
-      "Cual es el resultado de simplificar la siguiente expresión 4x^2 + 3x - 2x^2 + 5",
+      "Cuàl es el resultado de simplificar la siguiente expresión 4x^2 +  - 2x^2 + 5",
     respuesta_correcta: "2x^2 + 3x + 5",
     posibles_respuestas: {
       res_1: "2x^2 + 1x + 4",
@@ -67,7 +67,7 @@ export const datosEstaticos = [
   },
 
   {
-    pregunta: "Cual es la resta de la siguiente fracción 11/12 - 3/5",
+    pregunta: "Cuàl es la resta de la siguiente fracción 11/12 - 3/5",
     respuesta_correcta: "37/60",
     posibles_respuestas: {
       res_1: "33/78",
@@ -79,7 +79,7 @@ export const datosEstaticos = [
   },
 
   {
-    pregunta: "Cual es el valor de 5^4",
+    pregunta: "Cuàl es el valor de 5^4",
     respuesta_correcta: "625",
     posibles_respuestas: {
       res_1: "600",
@@ -92,7 +92,7 @@ export const datosEstaticos = [
 
   {
     pregunta:
-      "Cual es la respuesta de la siguiente fracción vista 7 y 3/4 + 4 y 2/5",
+      "Cuàl es la respuesta de la siguiente fracción vista 7 y 3/4 + 4 y 2/5",
     respuesta_correcta: "12 y 13/20",
     posibles_respuestas: {
       res_1: "12 y 11/24",
@@ -104,7 +104,7 @@ export const datosEstaticos = [
   },
 
   {
-    pregunta: "Cual es la respuesta de la siguiente expresión 6x^2 + 11x + 4",
+    pregunta: "Cuàl es la respuesta de la siguiente expresión 6x^2 + 11x + 4",
     respuesta_correcta: "(3x + 4) (2x + 1)",
     posibles_respuestas: {
       res_1: "(3x + 4) (2x + 1)",
@@ -117,9 +117,9 @@ export const datosEstaticos = [
 
   {
     pregunta: "Cuando da la siguiente inecuación 3x - 7 < 5x + 4",
-    respuesta_correcta: "3 > -11",
+    respuesta_correcta: "x > -11/2",
     posibles_respuestas: {
-      res_1: "3 > -11",
+      res_1: "x > -11/2",
       res_2: "7 > -8",
       res_3: "3 > -13",
       res_4: "7 > -19",
@@ -128,8 +128,8 @@ export const datosEstaticos = [
   },
 
   {
-    pregunta: "Cual es la resta de la siguiente fracción 3/8 - 5/12",
-    respuesta_correcta: "1/24",
+    pregunta: "Cuàl es la resta de la siguiente fracción 3/8 - 5/12",
+    respuesta_correcta: "-1/24",
     posibles_respuestas: {
       res_1: "2/20",
       res_2: "2/27",
@@ -140,7 +140,7 @@ export const datosEstaticos = [
   },
 
   {
-    pregunta: "Cual es el valor de 2x^3",
+    pregunta: "Cuàl es el valor de 2x^3",
     respuesta_correcta: "8x",
     posibles_respuestas: {
       res_1: "6x",
@@ -177,7 +177,7 @@ export const datosEstaticos = [
   },
 
   {
-    pregunta: "Cual es la solución de la ecuación x^2 - 5x + 6 = 0",
+    pregunta: "Cuàl es la solución de la ecuación x^2 - 5x + 6 = 0",
     respuesta_correcta: "x = 3 y x = 2",
     posibles_respuestas: {
       res_1: "x = 3 y x = 2",
@@ -189,7 +189,7 @@ export const datosEstaticos = [
   },
 
   {
-    pregunta: "Cual es la suma de la siguiente fracción 7/8 + 3/4",
+    pregunta: "Cuàl es la suma de la siguiente fracción 7/8 + 3/4",
     respuesta_correcta: "13/8",
     posibles_respuestas: {
       res_1: "13/7",
@@ -201,7 +201,7 @@ export const datosEstaticos = [
   },
 
   {
-    pregunta: "Cual es la resta de la siguiente ecuación 11/12 - 5/6",
+    pregunta: "Cuàl es la resta de la siguiente ecuación 11/12 - 5/6",
     respuesta_correcta: "1/12",
     posibles_respuestas: {
       res_1: "1/13",
@@ -226,7 +226,7 @@ export const datosEstaticos = [
 
   {
     pregunta:
-      "Cual es la respuesta de la siguiente expresión algebraica 4x + 7 - 3x cuando x = 5",
+      "Cuàl es la respuesta de la siguiente expresión algebraica 4x + 7 - 3x cuando x = 5",
     respuesta_correcta: "12",
     posibles_respuestas: {
       res_1: "15",
@@ -275,7 +275,7 @@ export const datosEstaticos = [
   },
 
   {
-    pregunta: "Cual es la suma de la siguente fracción 5/6 + 7/9",
+    pregunta: "Cuàl es la suma de la siguente fracción 5/6 + 7/9",
     respuesta_correcta: "17/18",
     posibles_respuestas: {
       res_1: "14/8",
